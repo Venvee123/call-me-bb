@@ -12,4 +12,6 @@
 
  *{{birthday1.DATA}}
 
+ *{{note_en.DATA}} 
+
  *{{note_ch.DATA}}
