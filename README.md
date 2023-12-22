@@ -8,7 +8,7 @@
 
  风向：{{wind_dir.DATA}}
 
- 距离上一次生理期过去{{love_day.DATA}}天
+ 今天是我們相識的第{{love_day.DATA}}天
 
  *{{birthday1.DATA}}
 
